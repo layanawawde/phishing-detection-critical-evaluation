@@ -1,0 +1,7 @@
+error_type,phishing_probability,SSLfinal_State,URL_of_Anchor,Prefix_Suffix,web_traffic,having_Sub_Domain,true_phishing,predicted_phishing
+False Negative,0.09629383528368601,1,0,-1,1,0,1,0
+False Negative,0.17725193228951633,1,0,-1,0,1,1,0
+False Negative,0.22582032433141866,1,0,-1,1,0,1,0
+False Positive,0.821961315268576,-1,0,-1,0,0,0,1
+False Positive,0.7575307908735945,-1,0,-1,-1,0,0,1
+False Positive,0.7569879641539334,-1,0,-1,1,-1,0,1
